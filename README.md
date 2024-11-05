@@ -46,9 +46,9 @@ O jogador vai liberando novos desafios conforme for progredindo os andares e a q
 
 O jogador que escolheu mineracao, joga 5 d20, a cada d20 jogado acontece o seguinte:
 
-1~10: toma 5 de dano
-11~18: acha um mineral relativo ao andar da mina
-19~20: acha um item raro
+- 1~10: toma 5 de dano
+- 11~18: acha um mineral relativo ao andar da mina
+- 19~20: acha um item raro
 
 Sempre que ele tirar mais de 10, pode escolher descer um nivel da mina alem do numero que tirou.
 A cada 5 niveis da mina da cidade libera o elevador, igual no jogo.
@@ -65,11 +65,11 @@ Os peixes mudam conforme a região em que se pesca.
 
 O jogador que escolheu pesca, joga (x * 4) d20, sendo x o tanto de parte do dia que decidiu dedicar-se a pesca:
 
-1~5: Lixo
-6~10: Peixe comum
-11~15: Peixe intermediario
-16~19: Pexei raro
-20: Peixe raro + Bau (Joga 3 d20 para sortear o item do bau)
+- 1~5: Lixo
+- 6~10: Peixe comum
+- 11~15: Peixe intermediario
+- 16~19: Pexei raro
+- 20: Peixe raro + Bau (Joga 3 d20 para sortear o item do bau)
 
 ### Exemplo de pesca 1
 Jogador gastou 3/4 do dia com pesca, ele joga 3 * 4 (12) d20!
