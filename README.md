@@ -98,6 +98,7 @@ Com cada parte do dia dedicada a plantação, o jogador pode:
     - 6~10: prata
     - 11~15: ouro
     - 16~20: iridium
+  - O jogador pode colher no máximo 8 produtos da estufa por dia 
    
 - Plantar
   - Para plantar é preciso ter sementes! Dedique-se 1/4 do dia a Cidade para comprar
@@ -109,10 +110,12 @@ Começo do turno, o jogador:
 - Gasta 1/4 indo a cidade
   - Compra sementes
 - Gasta 2/4 do dia com cultivo:
-  - Ele planta as sementes 1/2
+  - Ele planta 4 sementes 1/2
   - Ele colhe sementes previamente plantadas 2/2
 - Pesca o resto do dia 1/4
 
 
 
 ## Cuidar dos animais
+
+
